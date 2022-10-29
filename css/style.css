@@ -1,0 +1,37 @@
+* {
+    margin: 0 auto;
+}
+
+/* header {
+    height: 30px;
+    width: 100%;
+    background-color:black;
+} */
+
+/* .logo {
+    height: 30px;
+    width: 30px;
+} */
+ 
+h1 {
+    text-align: center;
+}
+
+.Harry_Potter {
+    text-align: center;
+}
+
+h3 {
+    font-size: 50px;
+}
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+
+
+
